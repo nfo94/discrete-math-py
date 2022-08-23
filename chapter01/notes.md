@@ -1,3 +1,5 @@
+INTRO
+
 Discreet math is the study if countable, distinct or separate mathematical structures.
 In mathematics, set theory is the study of collections of objects, which is prerequisite
 knowledge for studying discrete mathematics.
